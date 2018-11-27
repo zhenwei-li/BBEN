@@ -1,0 +1,16 @@
+Index: common/src/main/java/com/bben/common/constants/Status.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- common/src/main/java/com/bben/common/constants/Status.java	(revision 361)
++++ common/src/main/java/com/bben/common/constants/Status.java	(date 1542953580616)
+@@ -9,7 +9,7 @@
+     /**
+      * 有效
+      */
+-    EFFECTIVE(1),
++    EFFECTIVE(1)  ,
+ 
+     /**
+      * 无效
